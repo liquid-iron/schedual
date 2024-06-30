@@ -1,0 +1,10 @@
+debug/cincident.o
+debug/ctask.o
+debug/main.o
+debug/mainwidget.o
+debug/qincident.o
+debug/qtask.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_mainwidget.o
+debug/moc_qincident.o
+debug/moc_qtask.o

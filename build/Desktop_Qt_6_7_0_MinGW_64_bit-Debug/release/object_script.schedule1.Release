@@ -1,0 +1,10 @@
+release/cincident.o
+release/ctask.o
+release/main.o
+release/mainwidget.o
+release/qincident.o
+release/qtask.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_mainwidget.o
+release/moc_qincident.o
+release/moc_qtask.o
